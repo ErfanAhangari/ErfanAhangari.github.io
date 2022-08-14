@@ -1,0 +1,96 @@
+html{
+  height: 100%;
+}
+::selection{
+  background-color: #F9E79F;
+}
+body {
+  color: #000000;
+  margin: 0;
+  padding: 0;
+  background: #FBFCFC;
+
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+
+}
+div{
+  padding: 50px
+  color: #ffffff;
+  font-family: dubai;
+}
+h2{
+  text-align: center;
+  font-size: 3vw;
+font-family: Mrs Saint Delafield;
+}
+
+
+h3 {
+  text-align: center;
+  font-size: 3vw;
+      font-family: dubai;
+}
+P{
+  margin: 1rem 0;
+  padding: 1rem;
+  text-align: justify;
+  font-size: 12px;
+  text-align: center;
+}
+
+
+footer{
+  background: #010101;
+  color: #ffffff;
+  padding: 3em;
+  margin-top: auto;
+    font-family: dubai;
+}
+
+a{
+color: #000000;
+}
+
+.link_contact{
+
+text-align: center;
+margin-top: 7%;
+font-size: 12px;
+}
+
+
+.thicon {
+  margin-top: 10%;
+  text-align: center;
+}
+
+
+
+.ContactLink {
+  color: red;
+}
+
+a {
+  color:#F9E79F ;
+}
+
+.back {
+margin-left: 10px;
+}
+
+button {
+  background-color: #F9E79F;
+border: none;
+padding: 5px;
+margin-left: auto;
+}
+
+
+.button_print_copyurl {
+  background-color: #F9E79F;
+border: none;
+padding: 5px;
+margin-left: auto;
+}
